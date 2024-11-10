@@ -1,0 +1,39 @@
+﻿@model WebApplication1TEST.Models.Users
+
+
+<h2>Регистрация</h2>
+<form asp-antiforgery="true" asp-action="Register" asp-controller="Home" autocomplete="off" class="row" style="margin-bottom: 5px;">
+    <fieldset>
+        <div class="form-group col-10 cd-2">
+            <label for="Login" class="form-label mt-2">Имя</label>
+            <input asp-for="@Model.Name" type="text" minlength="2" maxlength="50" autofocus
+                   class="form-control" id="Login" required placeholder="Введите ваше имя">
+            <span asp-validation-for="Name"></span>
+        </div>
+        <div class="form-group col-10 cd-2">
+            <label for="Login" class="form-label mt-2">Логин</label>
+            <input asp-for="@Model.Email" type="text"  minlength="2" maxlength="50" autofocus
+                   class="form-control" id="Login" required placeholder="Введите логин">
+            <small id="emailHelp" class="form-text text-muted">Никому не сообщайте данные от аккаунта!</small>
+            <span asp-validation-for="Email"></span>
+        </div>
+        <div class="form-group col-10 cd-2">
+            <label for="exampleInputPassword1" class="form-label mt-2">Пароль</label>
+            <input asp-for="@Model.Password" type="password" class="form-control" id="exampleInputPassword1" required placeholder="Введите пароль">
+            <span asp-validation-for="Password"></span>
+        </div>
+        <div class="form-group col-10 cd-2">
+            <label for="Login" class="form-label mt-2">Возраст</label>
+            <input asp-for="@Model.Age" type="text"  minlength="2" maxlength="50" autofocus
+                   class="form-control" id="Login" required placeholder="Введите возраст">
+            <span asp-validation-for="Age"></span>
+        </div>
+        <div class="form-group col-10 cd-2">
+            <label for="Login" class="form-label mt-2">Ваша роль в компании</label>
+            <input asp-for="@Model.Roliaya" type="text" minlength="2" maxlength="50" autofocus
+                   class="form-control" id="Login" required placeholder="Введите роль">
+            <span asp-validation-for="Roliaya"></span>
+        </div>
+        <button type="submit" class="btn btn-outline-info" style="outline: none; box-shadow: none; width: auto; height: auto;">Войти</button>
+    </fieldset>
+</form>

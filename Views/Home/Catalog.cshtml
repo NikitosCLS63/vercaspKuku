@@ -1,0 +1,38 @@
+﻿@model IEnumerable<WebApplication1TEST.Models.Products>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+</head>
+<body>
+    <header>
+        <h1>Каталог спортивной одежды Kuku-shop</h1>
+    </header>
+    <main>
+        <section class="catalog">
+            
+               
+                <div class="row">
+                    @foreach (var products in Model)
+                    {
+                        <div class="col-md-4">
+                            <div class="product">
+                            <img src="@Url.Content(products.img)" alt="@products.img" />
+                            <h5>@products.ProductName</h5>
+                            <button>Цена: @products.Price.ToString("C")</button>
+                            </div>
+                        </div>
+                    }
+                </div>
+           
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Спортивная одежда Kuku-shop</p>
+    </footer>
+</body>
+
+
+
+
+
+

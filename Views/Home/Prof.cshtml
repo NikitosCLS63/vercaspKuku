@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Профиль";
+    bool userFound = false;
+}
+
+<h2>Профиль</h2>
+
+<div>
+    @foreach (var user in Model)
+    {
+        if (user.Email == ViewBag.Email)
+        {
+            userFound = true;
+            <h4>Имя пользователя: @user.Name</h4>
+            <p>Email: @user.Email</p>
+            <p>Возраст: @user.Age</p>
+            <p>Роль: @user.Roliaya</p>
+
+            if (user.Roliaya == "Administrator")
+            {
+                <h3>Управление</h3>
+                <a asp-controller="Admin" asp-action="ManageUsers" class="btn btn-primary">Управление пользователями</a>
+                <a asp-controller="Admin" asp-action="ManageRoles" class="btn btn-secondary">Управление ролями</a>
+            }
+            <a class="btn btn-primary" href="@Url.Action("Logout")">Выход</a>
+        }
+    }
+    @if (!userFound)
+    {
+        <a class="btn btn-primary" href="@Url.Action("Logout")">Войти</a>
+    }
+</div>

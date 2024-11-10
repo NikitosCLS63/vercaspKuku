@@ -1,0 +1,63 @@
+﻿@model WebApplication1TEST.Models.Users
+
+
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <title>@ViewData["Title"]</title>
+</head>
+
+<body>
+    <h1>@ViewBag.Greeting</h1>
+    <a class="btn btn-primary" href="@Url.Action("Logout")">Выход</a>
+
+    <div>
+       
+        <div class="container">
+    
+            <h1 style="font-family:'Times New Roman'">О нашей компании Kuku-Shop Спорт</h1>
+            
+            <div class="content">
+                <div>
+                    <p>Мы - команда профессионалов и опытных тренеров, а так же спортсмены, объединенных любовью к спорту. Наша цель - вдохновлять людей на активный образ жизни и помогать достигать новых высот в спорте.</p>
+                    <p>Мы предлагаем широкий ассортимент спортивного оборудования, товаров и услуг, чтобы каждый мог найти что-то для себя. Присоединяйтесь к нам и начните свой путь к успеху и к спортивному обрузу жизни!</p>
+                </div>
+                <img src="~/media/sporting.jpg" alt="Спорт" />
+            </div>
+            <div>
+                 <h2>Популярная категория товаров</h2>
+                  
+                 <div class="popularity">
+                        <img src="~/media/footbalbuts.jpg" alt="" />
+                        <img src="~/media/nike.jpg" alt="" />
+                        <img src="~/media/footbolmatch.jpg" alt="" />
+                        <img src="~/media/jeroendeboordernike2.jpg" alt="" />
+                  </div>
+    
+            </div>
+            
+    
+            <h2>Подписывайтесь на нас в </h2>
+            <div class="social-links">
+                <a href="" target="_blank">
+                   <img src="~/media/tgwhite.png" alt="Telegram" />
+                </a>
+                <a href="" target="_blank">
+                   
+                    <img src="~/media/youtube.png" alt="YouTube" />
+                </a>
+                <a href="" target="_blank">
+                        <img src="~/media/instagramblack.png" alt="Instagram" />
+                </a>
+            </div>
+    
+    
+        </div>
+    </div>
+</body>
+   
+
+
+
+
+    

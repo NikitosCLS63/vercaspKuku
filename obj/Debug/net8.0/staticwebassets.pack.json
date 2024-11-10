@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1TEST.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1TEST.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\adidas_predator.jpg",
+      "PackagePath": "staticwebassets\\media\\adidas_predator.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\adidas_predators.jpg",
+      "PackagePath": "staticwebassets\\media\\adidas_predators.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\footbalbuts.jpg",
+      "PackagePath": "staticwebassets\\media\\footbalbuts.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\football_socks.jpg",
+      "PackagePath": "staticwebassets\\media\\football_socks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\footbolmatch.jpg",
+      "PackagePath": "staticwebassets\\media\\footbolmatch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\instagramblack.png",
+      "PackagePath": "staticwebassets\\media\\instagramblack.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\jeroendeboordernike2.jpg",
+      "PackagePath": "staticwebassets\\media\\jeroendeboordernike2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\manu_jersey.jpg",
+      "PackagePath": "staticwebassets\\media\\manu_jersey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\nike.jpg",
+      "PackagePath": "staticwebassets\\media\\nike.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\nike_superfly.jpg",
+      "PackagePath": "staticwebassets\\media\\nike_superfly.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\popularitytovar.jpg",
+      "PackagePath": "staticwebassets\\media\\popularitytovar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\puma_ball.jpg",
+      "PackagePath": "staticwebassets\\media\\puma_ball.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\side.jpg",
+      "PackagePath": "staticwebassets\\media\\side.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\sporting.jpg",
+      "PackagePath": "staticwebassets\\media\\sporting.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\tgwhite.png",
+      "PackagePath": "staticwebassets\\media\\tgwhite.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebApplication1TEST\\WebApplication1TEST\\wwwroot\\media\\youtube.png",
+      "PackagePath": "staticwebassets\\media\\youtube.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication1TEST.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication1TEST.props",
+      "PackagePath": "build\\WebApplication1TEST.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1TEST.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1TEST.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1TEST.props",
+      "PackagePath": "buildTransitive\\WebApplication1TEST.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
